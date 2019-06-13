@@ -11,4 +11,11 @@ Test image link ---  !!
  ![a map of Puerto Rico](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg#full)
  
 
+
+
+![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-left}
+Something about the first picture. Hahahahah it will work!!!!!!!
+{:style="clear: left"}
+
+
 Hello, If you would like to start studying how to make a website from scratch. That's the perfect time.
