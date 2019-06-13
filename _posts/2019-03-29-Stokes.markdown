@@ -13,8 +13,7 @@ Test image link ---  !!
 
 
 
-![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-left}
-Something about the first picture. Hahahahah it will work!!!!!!!
+![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-left} Something about the first picture. Hahahahah it will work!!!!!!!
 {:style="clear: left"}
 
 
