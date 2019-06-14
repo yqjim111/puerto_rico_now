@@ -48,6 +48,10 @@ img {
   max-width: 100%;
   vertical-align: middle; }
 
+img[src$="#full"] {
+  width: 100vw;
+  max-width: none;}
+
 /**
  * Figures
  */
@@ -490,9 +494,6 @@ table {
   #post-content h2 {
     font-size: 32px; }
 
-img[src$="#full"] {
-  width: 100vw;
-  max-width: none;}
 
     @media screen and (max-width: 800px) {
       #post-content h2 {
