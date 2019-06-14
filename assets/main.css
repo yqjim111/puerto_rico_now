@@ -114,10 +114,10 @@ blockquote {
 /*   max-width: calc(800px - (30px * 2)); */
   width:100%;
   max-width:45em;
-  margin-right: auto;
+/*   margin-right: auto;
   margin-left: auto;
   padding-right: 0px;
-  padding-top: 30px;
+  padding-top: 30px; */
 
 
   @media screen and (max-width: 800px) {
