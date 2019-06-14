@@ -472,10 +472,8 @@ table {
       font-size: 24px; } }
 
 #post-content {
-  margin-bottom: 30px; }
-  #post-content h2 {
-    font-size: 32px; }
-
+  margin-bottom: 30px;
+/*   Qi added */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -485,7 +483,16 @@ table {
   flex-direction: column;
   -webkit-box-align: center;
   -ms-flex-align: center;
-  align-items: center
+  align-items: center;}
+
+/* Qi added ends */
+
+  #post-content h2 {
+    font-size: 32px; }
+
+img[src$="#full"] {
+  width: 100vw;
+  max-width: none;}
 
     @media screen and (max-width: 800px) {
       #post-content h2 {
@@ -500,10 +507,7 @@ table {
     @media screen and (max-width: 800px) {
       #post-content h4 {
         font-size: 18px; } 
-}
 
-img[src$="#full"] {
-  width: 100vw;}
 
 .post-meta{
   color: #111111
