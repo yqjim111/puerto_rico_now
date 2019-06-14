@@ -475,6 +475,18 @@ table {
   margin-bottom: 30px; }
   #post-content h2 {
     font-size: 32px; }
+
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center
+
     @media screen and (max-width: 800px) {
       #post-content h2 {
         font-size: 28px; } }
@@ -488,11 +500,10 @@ table {
     @media screen and (max-width: 800px) {
       #post-content h4 {
         font-size: 18px; } 
-      
-  img[src$="#full"] {
-    width: 100vw;}
-
 }
+
+img[src$="#full"] {
+  width: 100vw;}
 
 .post-meta{
   color: #111111
