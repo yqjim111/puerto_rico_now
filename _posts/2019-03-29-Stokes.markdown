@@ -17,7 +17,13 @@ Test image link ---  !!
 {:style="clear: left"}
 
 
+
 ![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-left}
 you appear on the right, don't you?
+
+
+That's the test of another interesting code
+![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){:height="100vw" width="100vh"}
+
 
 Hello, If you would like to start studying how to make a website from scratch. That's the perfect time.
