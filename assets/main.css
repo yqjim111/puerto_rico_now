@@ -118,14 +118,14 @@ blockquote {
  * Wrapper
  */
 .wrapper {
-/*   max-width: -webkit-calc(800px - (30px * 2)); */
-/*   max-width: calc(800px - (30px * 2)); */
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
   width:100%;
-  max-width:45em;
-/*   margin-right: auto;
+/*   max-width:45em; */
+  margin-right: auto;
   margin-left: auto;
   padding-right: 0px;
-  padding-top: 30px; */
+  padding-top: 30px;
 
 
   @media screen and (max-width: 800px) {
