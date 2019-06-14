@@ -135,7 +135,7 @@ blockquote {
 
 /* Qi Added */
 
-#markdown {
+/* #markdown {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -263,7 +263,7 @@ blockquote {
 
 #markdown .flex-vid iframe {
     display: block
-}
+} */
 
 img[src$="#full"] {
   width: 100vw;
