@@ -52,6 +52,14 @@ img[src$="#full"] {
   width: 100vw;
   max-width: none;}
 
+.image-full {
+  width = "100vw";
+  max-width: none;
+  margin: 0 auto;
+  display: block;
+}
+
+
 /**
  * Figures
  */
@@ -682,7 +690,6 @@ table {
     #t6{color:#e08e2b}
   .p-name{display:none;}
   .footer-heading{display:none;} */
-
 
 
 .post__img {
