@@ -471,22 +471,22 @@ table {
     .post-title {
       font-size: 24px; } }
 
-.post-content {
+#post-content {
   margin-bottom: 30px; }
-  .post-content h2 {
+  #post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
-      .post-content h2 {
+      #post-content h2 {
         font-size: 28px; } }
-  .post-content h3 {
+  #post-content h3 {
     font-size: 26px; }
     @media screen and (max-width: 800px) {
-      .post-content h3 {
+      #post-content h3 {
         font-size: 22px; } }
-  .post-content h4 {
+  #post-content h4 {
     font-size: 20px; }
     @media screen and (max-width: 800px) {
-      .post-content h4 {
+      #post-content h4 {
         font-size: 18px; } 
       
   img[src$="#full"] {
