@@ -108,12 +108,11 @@ blockquote {
 .wrapper {
   max-width: -webkit-calc(800px - (30px * 2));
   max-width: calc(800px - (30px * 2));
-/*   margin-right: 0px;
-  margin-left: 0px; */
+  margin-right: auto;
+  margin-left: auto;
   padding-right: 0px;
   padding-top: 30px;
-  padding-left: 2em;
-  padding-right: 2em;}
+
 
   @media screen and (max-width: 800px) {
     .wrapper {
@@ -122,9 +121,7 @@ blockquote {
       padding-right: 0px;
       padding-left: 0px; } }
 
-  img[src$="#full"] {
-  width: 100vw;
-  }
+}
 
 /**
  * Clearfix
@@ -140,6 +137,10 @@ blockquote {
   display: flex;
   flex-direction: column;
   align-items: center;
+  
+  img[src$="#full"] {
+  width: 100vw;
+  }
 }
 
 
