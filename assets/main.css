@@ -265,9 +265,6 @@ blockquote {
     display: block
 } */
 
-img[src$="#full"] {
-  width: 100vw;
-}
 
 /* Qi Added End */
 
@@ -490,7 +487,12 @@ table {
     font-size: 20px; }
     @media screen and (max-width: 800px) {
       .post-content h4 {
-        font-size: 18px; } }
+        font-size: 18px; } 
+      
+  img[src$="#full"] {
+    width: 100vw;}
+
+}
 
 .post-meta{
   color: #111111
