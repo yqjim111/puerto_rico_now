@@ -52,7 +52,7 @@ img[src$="#full"] {
   width: 100vw;
   max-width: none;}
 
-.image-full {
+.img-full {
   width = "100vw";
   max-width: none;
   margin: 0 auto;
