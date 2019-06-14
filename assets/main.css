@@ -112,8 +112,8 @@ blockquote {
   margin-left: 0px; */
   padding-right: 0px;
   padding-top: 30px;
-  padding-left: auto;
-  padding-right: auto;}
+  padding-left: 2em;
+  padding-right: 2em;}
 
   @media screen and (max-width: 800px) {
     .wrapper {
