@@ -18,7 +18,7 @@ Test image link ---  !!
 
 
 
-![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-left}
+![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-right}
 you appear on the right, don't you?
 
 
