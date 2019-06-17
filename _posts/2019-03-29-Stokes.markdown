@@ -7,31 +7,29 @@ author: "Anna Stokes"
 ---
 **Here's a map of Puerto Rico**
 
-Test image link ---  !!
+
+The Text Appears in the right palce
+
  ![a map of Puerto Rico](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg#full)
  
 
 
 
-![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-left} Something about the first picture. Hahahahah it will work!!!!!!!
+![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-left} Try code 1
 {:style="clear: left"}
 
 
 
 ![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-right}
-you appear on the right, don't you?
+Testing code 2
 
 
-That's the test of another interesting code
+Testing code 3
 ![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){:height="100vw" width="100vh"}
 
 
 Test image class set up
-![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){:class="img-full"}
+![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg?classes=float-left)
 
 
 
-
-
-
-Hello, If you would like to start studying how to make a website from scratch. That's the perfect time.
