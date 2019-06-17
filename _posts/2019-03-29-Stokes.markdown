@@ -19,6 +19,10 @@ The Text Appears in the right palce
 {:style="clear: left"}
 
 
+Test Class Align {: .callout}
+![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .float-left}
+
+
 
 ![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-right}
 Testing code 2
@@ -30,6 +34,9 @@ Testing code 3
 
 Test image class set up
 ![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg?classes=float-left)
+
+
+
 
 
 
