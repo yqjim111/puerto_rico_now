@@ -18,11 +18,10 @@ The Text Appears in the right palce
 ![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-left} Try code 1
 {:style="clear: left"}
 
-**Something About this Image**
-Bla Bla Bla Bla Bla Bla
-{:style="clear: left"}
+<br></br>
 
 Will this line appear in the new line?
+<br></br>
 
 ![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .float-left}
 **Something About this Image**
