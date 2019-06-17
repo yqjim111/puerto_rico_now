@@ -25,7 +25,11 @@ Bla Bla Bla Bla Bla Bla
 Will this line appear in the new line?
 
 ![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .float-left}
+**Something About this Image**
+Bla Bla Bla Bla Bla Bla
+{:style="clear: left"}
 
+Will this line appear in the new line?
 
 
 ![](/puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg){: .align-right}
